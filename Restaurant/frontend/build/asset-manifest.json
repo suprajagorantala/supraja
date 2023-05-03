@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09b7e44f.css",
+    "main.js": "/static/js/main.92c4d90b.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/esperanza-doronila-Xns5s92Ipcc-unsplash-min.jpg": "/static/media/esperanza-doronila-Xns5s92Ipcc-unsplash-min.90c3081dfa62814b18c3.jpg",
+    "static/media/louis-hansel-DEYK2ecXLUg-unsplash-min.jpg": "/static/media/louis-hansel-DEYK2ecXLUg-unsplash-min.48eba4280857a0fb8dda.jpg",
+    "static/media/fabrizio-pullara-XTJjULuMBBo-unsplash-min.jpg": "/static/media/fabrizio-pullara-XTJjULuMBBo-unsplash-min.9e8321b8845766d8f2de.jpg",
+    "static/media/shreyak-singh-gFB1IPmH6RE-unsplash-min.jpg": "/static/media/shreyak-singh-gFB1IPmH6RE-unsplash-min.634018b60193d98268f7.jpg",
+    "static/media/brokeplate.jpg": "/static/media/brokeplate.8dab63e5f988c320c394.jpg",
+    "static/media/chef.jpg": "/static/media/chef.c0626949b1a3d8850d24.jpg",
+    "index.html": "/index.html",
+    "main.09b7e44f.css.map": "/static/css/main.09b7e44f.css.map",
+    "main.92c4d90b.js.map": "/static/js/main.92c4d90b.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b7e44f.css",
+    "static/js/main.92c4d90b.js"
+  ]
+}
