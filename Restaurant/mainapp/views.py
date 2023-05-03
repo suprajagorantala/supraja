@@ -32,7 +32,7 @@ from .models import Category, Item, Reviews, CartItems, Table, Reservation, Cont
 from .serializers import CategorySerializer, ItemSerializer, ReviewsSerializer, CartItemsSerializer, TableSerializer, ReservationSerializer, ContactSerializer, UserSerializer
 
 class CategoryListCreateView(generics.ListCreateAPIView):
-    #authentication_classes=[TokenAuthentication]
+    authentication_classes=[TokenAuthentication]
     #permission_classes=[IsAuthenticated]
     queryset=Category.objects.all()
     serializer_class=CategorySerializer
